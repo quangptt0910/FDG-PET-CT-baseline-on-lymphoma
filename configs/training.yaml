@@ -1,0 +1,6 @@
+dataset_id: 101
+configuration: 3d_fullres
+fold: 0
+num_epochs: 1
+device: cuda
+continue_training: false

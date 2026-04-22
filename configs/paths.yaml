@@ -1,0 +1,16 @@
+data_root: data
+output_root: output
+nnunet_raw: output/nnunet_raw
+nnunet_preprocessed: output/nnunet_preprocessed
+nnunet_results: output/nnunet_results
+images_dir: data/imagesTr
+labels_dir: data/labelsTr
+dataset_json: data/dataset.json
+fingerprint_json: data/dataset_fingerprint.json
+fdg_meta: data/fdg_metadata.csv
+psma_meta: data/psma_metadata.csv
+splits_json: data/splits_final.json
+manifests_dir: output/manifests
+figures_dir: output/figures
+metrics_dir: output/metrics
+logs_dir: output/logs

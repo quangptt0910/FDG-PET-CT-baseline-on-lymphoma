@@ -1,0 +1,5 @@
+train_size: 100
+val_size: 20
+diagnosis_filter: "LYMPHOMA"
+random_seed: 42
+use_official_val: true

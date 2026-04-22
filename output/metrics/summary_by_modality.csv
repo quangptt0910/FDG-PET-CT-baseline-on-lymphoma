@@ -1,0 +1,4 @@
+,dice,dice,sensitivity,sensitivity,fp_components,fp_components
+,mean,std,mean,std,mean,std
+modality,,,,,,
+FDG,0.6122,0.2854,0.6836,0.2245,5.2,6.6538

@@ -1,0 +1,49 @@
+# User/IDE files
+.agents
+.claude
+.idea
+.vscode
+.pytest_cache
+.ruff_cache
+__pycache__
+*.py[cod]
+*~
+
+# Project Data (Large Files)
+/13255214
+/data/
+
+# External Repositories (Not tracked here)
+/nnUNet/
+/autopet-3-submission/
+nnUNet
+autopet-3-submission
+
+# Output Management
+# Ignore everything in output/ by default
+/output/*
+
+# Explicitly track figures and metrics
+!/output/figures/
+!/output/metrics/
+
+# Ensure logs and predictions are ignored
+/output/logs/
+/output/predictions/
+/output/nnunet_preprocessed/
+/output/nnunet_raw/
+/output/nnunet_results/
+
+agent_coding_guideline.md
+AGENTS.md
+AGENT_FIX_AUTOPET3_INFERENCE.md
+TASKS.md
+GEMINI.md
+conftest.py
+instruction.md
+instructions.md
+package-lock.json
+predict_wrapper.py
+reports.md
+skills-lock.json
+OPENCODE.md

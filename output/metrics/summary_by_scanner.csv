@@ -1,0 +1,5 @@
+,dice,dice,sensitivity,sensitivity,fp_components,fp_components
+,mean,std,mean,std,mean,std
+manufacturer,,,,,,
+QIICR,0.6148,0.2763,0.6547,0.2296,5.4118,7.1156
+SIEMENS,0.5974,0.4035,0.8473,0.1005,4.0,3.6056

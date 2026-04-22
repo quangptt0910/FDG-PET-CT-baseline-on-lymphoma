@@ -1,0 +1,4 @@
+2026-04-18 20:17:35,790 - step01_inventory - INFO - Starting Step 01: Data Inventory
+2026-04-18 20:17:35,790 - step01_inventory - ERROR - Images directory not found: data\imagesTr
+2026-04-18 20:19:58,147 - step01_inventory - INFO - Starting Step 01: Data Inventory
+2026-04-18 20:19:58,147 - step01_inventory - ERROR - Images directory not found: data\imagesTr

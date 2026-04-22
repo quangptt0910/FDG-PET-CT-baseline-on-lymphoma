@@ -1,0 +1,7 @@
+metrics:
+  - dice
+  - sensitivity
+  - false_positives_per_case
+  - positive_case_detection_rate
+iou_threshold: 0.1    # for lesion-level matching
+min_lesion_voxels: 10 # ignore predicted components smaller than this
