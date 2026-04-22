@@ -1,4 +1,4 @@
-# autoPET PSMA+FDG nnU-Net Segmentation Pipeline
+# autoPET PSMA-FDG-PET/CT nnU-Net Segmentation Pipeline
 
 This repository implements a whole-body PET/CT lesion segmentation pipeline using the autoPET dataset (PSMA-FDG-PET-CT) and the nnU-Net framework. It was developed as a modular research project for a medical imaging course.
 
